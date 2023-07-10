@@ -15,3 +15,8 @@ with col2:
     focusing more in automations process and cyber-security.
     """
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I have build in Python.Fell free to contact me!
+"""
+st.write(content2)
